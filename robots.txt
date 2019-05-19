@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wiinguyisa.afarx.com/sitemap.xml
